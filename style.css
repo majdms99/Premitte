@@ -332,6 +332,7 @@ body {
 /************************* Start Footer Style*******************/
 footer .sec-menu {
   width: 60%;
+  padding: 0;
 }
 @media (max-width: 900px) {
   .shopping-box .shopping-title {
@@ -370,7 +371,7 @@ footer .sec-menu a:hover {
 footer .icons-social {
   list-style: none;
   display: flex;
-  /* justify-content: space-between; */
+  padding: 0;
 }
 footer .copyright {
   padding-top: 20px;
